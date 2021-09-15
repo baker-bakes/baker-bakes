@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @baker-bakes
+- 👀 I’m interested in programming and language learning
+- 🌱 I’m currently learning Japanese and C++
+- 📫 How to reach me baker#7347 <-- discord
